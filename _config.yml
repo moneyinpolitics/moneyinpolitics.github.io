@@ -1,7 +1,7 @@
 title: "Campaign Finance Research Group (CFRG)"
 email: sskim.research@gmail.com
 timezone: UTC
-baseurl: "https://github.com/moneyinpolitics/moneyinpolitics.github.io"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
